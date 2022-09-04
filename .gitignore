@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <math.h>
 
-void calculations();
 int main()
 {
     float shell_diesel=88.2,shell_unl=92.1,petron_die=87.2,petron_unl=88.5,phoenix_die=86.8,phoenix_unl=88.2,sea_oilDie=79.9,sea_oilUnl=83.9;
